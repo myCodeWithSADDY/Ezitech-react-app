@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ezitech-react-app/static/css/main.cb7cf101.css",
+    "main.js": "/Ezitech-react-app/static/js/main.c215e25a.js",
+    "static/js/453.afc8dfed.chunk.js": "/Ezitech-react-app/static/js/453.afc8dfed.chunk.js",
+    "static/media/card1.jpg": "/Ezitech-react-app/static/media/card1.c93b61047910ffc4cf87.jpg",
+    "static/media/card2.jpg": "/Ezitech-react-app/static/media/card2.e047f0afc39a2f6994bd.jpg",
+    "static/media/card3.jpg": "/Ezitech-react-app/static/media/card3.8d26edcece0b58000ec4.jpg",
+    "static/media/background.jpg": "/Ezitech-react-app/static/media/background.14d7a633a4356eb5a2ec.jpg",
+    "static/media/hero.png": "/Ezitech-react-app/static/media/hero.bad4715e63ebc1746588.png",
+    "static/media/footerbg.webp": "/Ezitech-react-app/static/media/footerbg.b782971d8447a464094c.webp",
+    "static/media/flutter.jpg": "/Ezitech-react-app/static/media/flutter.dac6d807c40e00108066.jpg",
+    "static/media/frontend.webp": "/Ezitech-react-app/static/media/frontend.3ddd330898e5dc14888f.webp",
+    "static/media/online.webp": "/Ezitech-react-app/static/media/online.37bcac59fc0a0a57b323.webp",
+    "static/media/Ai.webp": "/Ezitech-react-app/static/media/Ai.5da56d889f174ec7978d.webp",
+    "index.html": "/Ezitech-react-app/index.html",
+    "main.cb7cf101.css.map": "/Ezitech-react-app/static/css/main.cb7cf101.css.map",
+    "main.c215e25a.js.map": "/Ezitech-react-app/static/js/main.c215e25a.js.map",
+    "453.afc8dfed.chunk.js.map": "/Ezitech-react-app/static/js/453.afc8dfed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7cf101.css",
+    "static/js/main.c215e25a.js"
+  ]
+}
