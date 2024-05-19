@@ -1,0 +1,43 @@
+.btn-transparent {
+    background: transparent;
+    color: #F2F2F2;
+    -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+    transition: background .2s ease-in-out, border .2s ease-in-out;
+}
+
+    .btn-transparent:hover {
+        color: white;
+        background-color: rgba(101, 247, 4, 0.664);
+    }
+    
+    .btn-transparent i :hover{
+         background-color: rgba(1, 255, 1, 0.705);
+         border-radius: 12px solid white;
+         
+    }
+
+    .nav-item :hover{
+        color: rgba(196, 4, 4, 0.815) !important;
+        transition: 1s;
+    }
+    *{
+        
+        font-family: "Poppins", sans-serif;
+
+    }
+
+    @media (max-width:991px){
+        .sidebar{
+            background-color: rgb(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+        
+            
+        }
+        .navbar{
+            margin-top: 20%;
+        }
+    }
+
+  

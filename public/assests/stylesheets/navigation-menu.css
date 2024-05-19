@@ -1,0 +1,15 @@
+.elementor-navigation-menu-style_1 .hfe-layout-vertical .hfe-nav-menu__layout-vertical .hfe-nav-menu li {
+    padding-left: 10px;
+}
+.elementor-navigation-menu-style_1 .hfe-layout-vertical .hfe-nav-menu__layout-vertical .hfe-nav-menu li:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 0;
+    height: 0;
+    transform: translate(0, -50%);
+    border-top: 4px solid transparent;
+    border-left: 7px solid #f36487;
+    border-bottom: 4px solid transparent;
+}
